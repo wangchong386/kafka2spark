@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="kafka2spark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafka2spark_jar</output-path>
+    <root id="archive" name="kafka2spark.jar">
+      <element id="module-output" name="kafka2spark" />
+      <element id="extracted-dir" path="D:/scala/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/scala/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/scala/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/software/intellij/spark/spark-1.6.0-bin-hadoop2.6/spark-1.6.0-bin-hadoop2.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
